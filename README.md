@@ -1,1 +1,1 @@
-# News-Summarization
+# News Summarization
